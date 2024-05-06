@@ -10,3 +10,7 @@ get into the mounted drive
  the controls are :
  `w` for up
  `s` for down
+![alt text]([http://url/to/img.png](https://github.com/W3b-crawl3r/assembly-ping-pong/blob/main/Screenshot%202024-05-06%20225531.png))
+![alt text]([http://url/to/img.png](https://github.com/W3b-crawl3r/assembly-ping-pong/blob/main/Screenshot%202024-05-06%20225549.png))
+![alt text]([http://url/to/img.png](https://github.com/W3b-crawl3r/assembly-ping-pong/blob/main/Screenshot%202024-05-06%20225602.png))
+![alt text]([http://url/to/img.png](https://github.com/W3b-crawl3r/assembly-ping-pong/blob/main/Screenshot%202024-05-06%20225616.png))
